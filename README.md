@@ -54,4 +54,5 @@
 <div align="center">
   <img src="Нян.png"</div> 
 <div align="center">
-<img width= "190" src="IMG_4302.PNG"></div> <img width= "190" src="IMG_4302.PNG"</div> <img width= "190" src="IMG_4302.PNG"</div>
+<img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"</div>
+&nbsp;
