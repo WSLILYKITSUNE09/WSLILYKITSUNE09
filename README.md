@@ -46,7 +46,7 @@
 &nbsp;
   &nbsp;
 <div align="left">
-𝗗𝗡𝗜: basic dni criteria, boundary breakers, -14 y.o., Israel/Russia/Azerbaijan supporters. </div>
+𝗗𝗡𝗜: basic dni criteria, boundary breakers, -14 y.o., Israel/Russia/Azerbaijan supporters, ex friends. </div>
 
  <div align="center">
 <img width="60" height="200" src=" Кость.png"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src=" Кость.png"</div> 
