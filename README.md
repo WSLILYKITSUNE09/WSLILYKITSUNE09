@@ -32,7 +32,7 @@
        <div align="center">
   <a href="https://takeashot.atabook.org">ATABOOK</a> &nbsp; &nbsp; <a href="https://steamcommunity.com/id/wslilykitsune/">STEAM</a> &nbsp; &nbsp; <a href="https://t.me/holylilyinfo">TG INFO</a> &nbsp; &nbsp; [staw page in progress] </div>
 <div align="center">
-   <img width= "200" src="IMG_3129.PNG"> <img width= "200" src="IMG_3129.PNG">
+   <img width= "200" src="IMG_3129.PNG"</div> <img width= "200" src="IMG_3129.PNG"</div>
   &nbsp;
    <div align="center">
    <a href="https://hits.sh/github.com/WSLILYKITSUNE09/"><img alt="Hits" src="https://hits.sh/github.com/WSLILYKITSUNE09.svg?view=today-total&style=plastic&label=VIEWS&color=f166f9&labelColor=31a1fd"/></a>
@@ -54,5 +54,5 @@
 <div align="center">
   <img src="Нян.png"</div> 
 <div align="center">
-<img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"</div>
+<img width= "190" src="IMG_4302.PNG"</div> <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"</div>
 &nbsp;
