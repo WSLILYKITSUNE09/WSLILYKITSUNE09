@@ -23,14 +23,14 @@
   <div align="center">
     𝘂𝗸/𝗿𝘂𝘀/𝗲𝗻𝗴 </div>
     <div align="center">
-    (𝗯𝗮𝗱 𝗲𝗻𝗴𝗹𝗶𝘀𝗵 𝗴𝗿𝗮𝗺𝗺𝗮𝗿 𝗜'𝗺 𝘀𝗼𝗿𝗿𝘆)
+    (𝗯𝗮𝗱 𝗲𝗻𝗴𝗹𝗶𝘀𝗵 𝗴𝗿𝗮𝗺𝗺𝗮𝗿 𝗜'𝗺 𝘀𝗼𝗿𝗿𝘆) </div>
   <div align="center">
 &nbsp; 𝗜𝗡𝗙𝗣, 𝘀𝗽𝟭𝘀𝗽𝟯𝘀𝘅𝟱, 𝟭𝘄𝟵 </div>
       &nbsp;
     <div align="center">
     <img width= "100" src="IMG_3042.PNG"</div>
        <div align="center">
-  <a href="https://takeashot.atabook.org">ATABOOK</a> &nbsp; &nbsp; <a href="https://steamcommunity.com/id/wslilykitsune/">STEAM</a> &nbsp; &nbsp; <a href="https://t.me/holylilyinfo">TG INFO</a> &nbsp; &nbsp; [staw page in progress] </div>
+  <a href="https://takeashot.atabook.org">ATABOOK</a> &nbsp; &nbsp; <a href="https://steamcommunity.com/id/wslilykitsune/">STEAM</a> &nbsp; &nbsp; <a href="https://t.me/holylilyinfo">TG INFO</a> &nbsp; [staw page in progress] </div>
 <div align="center">
    <img width= "200" src="IMG_3129.PNG"</div> <img width= "200" src="IMG_3129.PNG"</div>
   &nbsp;
