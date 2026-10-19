@@ -1,4 +1,6 @@
 <div align="center">
+<a href="https://hits.sh/github.com/WSLILYKITSUNE09/"><img alt="Hits" src="https://hits.sh/github.com/WSLILYKITSUNE09.svg?view=today-total&style=plastic&label=VIEWS&color=f166f9&labelColor=31a1fd"/></a>
+<div align="center">
 <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"</div>
 <div align="center">
 <img width="60" height="200" src=" Кость.png"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src=" Кость.png"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src=" Кость.png"</div> 
@@ -42,10 +44,6 @@
 <div align="center">
    <img width= "200" src="IMG_3129.PNG"</div> 
    <img width= "200" src="IMG_3129.PNG"</div>
-  &nbsp;
-  &nbsp;
-   <div align="center">
-   <a href="https://hits.sh/github.com/WSLILYKITSUNE09/"><img alt="Hits" src="https://hits.sh/github.com/WSLILYKITSUNE09.svg?view=today-total&style=plastic&label=VIEWS&color=f166f9&labelColor=31a1fd"/></a>
   &nbsp;
   &nbsp;
   &nbsp;
