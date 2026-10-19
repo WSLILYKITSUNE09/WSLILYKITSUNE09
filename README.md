@@ -29,11 +29,12 @@
 &nbsp; 𝗜𝗡𝗙𝗣, 𝘀𝗽𝟭𝘀𝗽𝟯𝘀𝘅𝟱, 𝟭𝘄𝟵 </div>
       &nbsp;
     <div align="center">
-    <img width= "100" src="IMG_3042.PNG"</div>
+    <img width= "100" src="IMG_3042.PNG"</div> <img src="https://wslilykitsune09-t2rd.vercel.app/api/soundcloud?user=wslilykitsune-0926&pool=10"</div>
        <div align="center">
   <a href="https://takeashot.atabook.org">ATABOOK</a> &nbsp; &nbsp; <a href="https://steamcommunity.com/id/wslilykitsune/">STEAM</a> &nbsp; &nbsp; <a href="https://t.me/holylilyinfo">TG INFO</a> &nbsp; [staw page in progress] </div>
 <div align="center">
-   <img width= "200" src="IMG_3129.PNG"</div> <img width= "200" src="IMG_3129.PNG"</div>
+   <img width= "200" src="IMG_3129.PNG"</div> 
+   <img width= "200" src="IMG_3129.PNG"</div>
   &nbsp;
    <div align="center">
    <a href="https://hits.sh/github.com/WSLILYKITSUNE09/"><img alt="Hits" src="https://hits.sh/github.com/WSLILYKITSUNE09.svg?view=today-total&style=plastic&label=VIEWS&color=f166f9&labelColor=31a1fd"/></a>
