@@ -1,5 +1,7 @@
 <div align="center">
 <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"> <img width= "190" src="IMG_4302.PNG"</div>
+<div align="center">
+<img width="60" height="200" src=" Кость.png"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src=" Кость.png"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src=" Кость.png"</div> 
 &nbsp;
    <div align="center">
   <img width="500" height="100" src="36c92e5b16d540b32bae9353e93a7ddf.jpg"</div>
@@ -28,16 +30,23 @@
   <div align="center">
 &nbsp; 𝗜𝗡𝗙𝗣, 𝘀𝗽𝟭𝘀𝗽𝟯𝘀𝘅𝟱, 𝟭𝘄𝟵 </div>
       &nbsp;
+      &nbsp;
     <div align="center">
     <img width= "100" src="IMG_3042.PNG"</div>
+       &nbsp;
+       <div align="left">
+𝗗𝗡𝗜: basic dni criteria, boundary breakers, -14 y.o., Israel/Russia/Azerbaijan supporters, ex friends. </div>
+  &nbsp;
        <div align="center">
   <a href="https://takeashot.atabook.org">ATABOOK</a> &nbsp; &nbsp; <a href="https://steamcommunity.com/id/wslilykitsune/">STEAM</a> &nbsp; &nbsp; <a href="https://t.me/holylilyinfo">TG INFO</a> &nbsp; [staw page in progress] </div>
 <div align="center">
    <img width= "200" src="IMG_3129.PNG"</div> 
    <img width= "200" src="IMG_3129.PNG"</div>
   &nbsp;
+  &nbsp;
    <div align="center">
    <a href="https://hits.sh/github.com/WSLILYKITSUNE09/"><img alt="Hits" src="https://hits.sh/github.com/WSLILYKITSUNE09.svg?view=today-total&style=plastic&label=VIEWS&color=f166f9&labelColor=31a1fd"/></a>
+  &nbsp;
   &nbsp;
   &nbsp;
 <div align="center">
@@ -46,13 +55,7 @@
 &nbsp; <img width= "70" src="IMG_3278.PNG"</div> <img width= "70" src="IMG_3278.PNG"</div> <img width= "70" src="IMG_3278.PNG"</div>
 &nbsp;
 &nbsp;
-  &nbsp;
-<div align="left">
-𝗗𝗡𝗜: basic dni criteria, boundary breakers, -14 y.o., Israel/Russia/Azerbaijan supporters, ex friends. </div>
-
- <div align="center">
-<img width="60" height="200" src=" Кость.png"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src="IMG_3104.PNG"</div> <img width="60" height="200" src=" Кость.png"</div> 
-  &nbsp;
+&nbsp;
 <div align="center">
   <img src="Нян.png"</div> 
 <div align="center">
